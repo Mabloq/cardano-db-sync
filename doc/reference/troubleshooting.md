@@ -1,5 +1,8 @@
+# Troubleshooting
 
-# Testing
+If you have any issues with this project, consult the [troubleshooting][troubleshooting] page for
+possible solutions.
+
 
 ## Unable to connect to Unix domain socket /var/run/postgresql/.s.PGSQL.5432
 
