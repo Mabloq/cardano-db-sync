@@ -12,3 +12,5 @@ The PostgreSQL database is designed to be accessed in a read-only fashion from o
 The database schema is highly normalised which helps prevent data inconsistencies (specifically
 with the use of foreign keys from one table to another). More user friendly database queries can be
 implemented using [Postgres Views][PostgresView] to implement joins between tables.
+
+[PostgresView]: doc/troubleshooting.md
