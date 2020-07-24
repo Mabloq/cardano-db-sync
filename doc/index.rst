@@ -1,6 +1,6 @@
-############
-cardano-node
-############
+###############
+cardano-db-sync
+###############
 
 .. include:: ../README.rst
 
