@@ -41,6 +41,7 @@ PGPASSFILE=config/pgpass db-sync-node/bin/cardano-db-sync \
     --config config/mainnet-config.yaml \
     --socket-path ../cardano-node/state-node-mainnet/node.socket \
     --schema-dir schema/
+    --state-dir ledger-state/mainnet \
 ```
 
 ### Run two chains with a single PostgreSQL instance
